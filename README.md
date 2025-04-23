@@ -17,3 +17,4 @@ nvidia.update_12_4()
 nvidia.install_nemo()
 ```
 
+Warning: takes 10-15m! 
