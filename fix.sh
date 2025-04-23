@@ -1,4 +1,6 @@
 !#/bin/bash
+
+# cuda upgrade script run in colab terminal 
 apt-get install emacs
 export  DEBIAN_FRONTEND=noninteractive 
 sudo apt-get install keyboard-configuration

@@ -4,8 +4,8 @@ build-backend = "hatchling.build"
 
 
 [project]
-name = "colab_dc333"
-version = "0.0.2"
+name = "meetup_colab"
+version = "0.0.1"
 authors = [
   { name="dc", email="dougchang25@gmail.com" },
 ]
@@ -20,5 +20,5 @@ license = "MIT"
 license-files = ["LICEN[CS]E*"]
 
 [project.urls]
-Homepage = "https://github.com/dougc333/test_python/tree/main/llmutils/colab_dc333"
-Issues = "https://github.com/dougc333/test_python/issues"
+Homepage = "https://github.com/dougc333/meetup_colab"
+Issues = "https://github.com/dougc333/meetup_colab/issues"
