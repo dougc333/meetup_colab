@@ -25,7 +25,6 @@ def install_nemo():
 	os.system('pip install nemo_toolkit["all"]')
 	os.system('pip install git+https://github.com/NVIDIA/NeMo-Run.git')
 	os.system('pip install megatron-core')
-	os.system('pip install megatron-core')
 	os.system('pip install transformer-engine[pytorch]')
 	print("run from nemo.collections import llm and verify this works")
 
