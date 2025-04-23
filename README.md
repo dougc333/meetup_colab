@@ -7,5 +7,6 @@ In colab cell
 ```
 from meetup-colab import nvidia
 nvidia.update_12_4()
-nvidia.install_nemo()```
+nvidia.install_nemo()
+```
 
