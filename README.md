@@ -1,5 +1,7 @@
 Source code for pypi https://pypi.org/project/meetup-colab/
 
+https://github.com/dougc333/meetup_colab
+
 In colab terminal 
 ```
 > pip install meetup-colab
