@@ -20,3 +20,5 @@ nvidia.install_nemo()
 ```
 
 Warning: takes 10-15m! 
+Adding mamba to fix the LLM error takes an additional 17m on top of the existing 10-15m. 
+Adding Apex takes an additional 10m. Both Apex and mamba builds were omitted for time. 
