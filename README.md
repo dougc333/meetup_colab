@@ -1,3 +1,9 @@
+Instructions for updating colab drivers to 12.4 for both nvidia-smi and nvcc --version
+
+And notes on getting mamba to run with Nvidia's Nemo models.
+
+
+
 Source code for pypi https://pypi.org/project/meetup-colab/
 
 https://github.com/dougc333/meetup_colab
